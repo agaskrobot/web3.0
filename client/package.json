@@ -1,0 +1,27 @@
+{
+	"name": "krypto",
+	"private": true,
+	"version": "0.0.0",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"dependencies": {
+		"react": "^18.0.0",
+		"react-dom": "^18.0.0"
+	},
+	"devDependencies": {
+		"@vitejs/plugin-react": "^1.0.7",
+		"autoprefixer": "^10.4.4",
+		"eslint": "^8.12.0",
+		"eslint-plugin-import": "^2.25.4",
+		"eslint-plugin-jsx-a11y": "^6.5.1",
+		"eslint-plugin-react": "^7.29.4",
+		"eslint-plugin-react-hooks": "^4.4.0",
+		"postcss": "^8.4.12",
+		"prettier": "2.6.1",
+		"tailwindcss": "^3.0.23",
+		"vite": "^2.9.0"
+	}
+}
